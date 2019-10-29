@@ -1,4 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Quarto","order":1,"parentId":0,"scrollX":819,"scrollY":461}
+{"id":1,"expanded":true,"name":"Quarto","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":2,"expanded":true,"name":"Sala","order":2,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":true,"name":"Cozinha","order":3,"parentId":0,"scrollX":819,"scrollY":461}
 ]
